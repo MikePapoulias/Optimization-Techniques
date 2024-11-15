@@ -1,4 +1,4 @@
-
+Implementation of various optimization methods on convex functions to find their minimum point using the Matlab simulation environment.
 
 # Description
 In this assignment, written in Matlab code, we implement specific algorithms from Optimization Techniques on convex functions of one or multiple variables, aiming to find their minimum point.
